@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The most widely accepted definition of mindfulness is the awareness that arises from \"paying attention\_in a particular way: on purpose, in the present moment, and non judgmentally\". This explanation by Jon Kabat-Zinn revolves around three axioms: Intention (on purpose), Attention (paying attention) and Attitude (non judgmentally)."
-datePublished: '2016-04-04T20:38:20.512Z'
-dateModified: '2016-04-04T20:35:29.619Z'
+datePublished: '2016-04-04T20:41:03.182Z'
+dateModified: '2016-04-04T20:41:01.511Z'
 title: What is mindfulness
 author: []
 sourcePath: _posts/2016-04-04-what-is-mindfulness.md
