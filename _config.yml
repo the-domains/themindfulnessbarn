@@ -1,0 +1,28 @@
+name: themindfulnessbarn
+favicon: null
+layout_spectrum: 0.5756529909558594
+typography_spectrum: 0.9432933868374676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5523134677205235
+  lightness: 0.35704136127606034
+  saturation: 0.5904607828706503
+  rhythmicContrast: 0.98567979875952
+purpose: []
